@@ -4,12 +4,15 @@ The implementation of "Semi-supervised Medical Image Classification with Global 
 # How to run?
 python latent-mixing.py 
 
+For detail, follow run_main.sh
+
 # Requirements:
 1. pyTorch
 2. pickle
 3. PIL
 4. torchvision
 5. sklearn
+
 There might be more requirements but shouldn't be difficult to install them using conda. 
 
 # Credit:
